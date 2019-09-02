@@ -60718,7 +60718,7 @@
                 }
               },
               "schema": {
-                "additionalProperties": false,
+                "additionalProperties": true,
                 "properties": {
                   "amount": {
                     "description": "Amount associated with the source. This is the amount for which the source will be chargeable once ready. Required for `single_use` sources.",

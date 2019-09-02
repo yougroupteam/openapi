@@ -47470,7 +47470,7 @@ paths:
                 explode: true
                 style: deepObject
             schema:
-              additionalProperties: false
+              additionalProperties: true
               properties:
                 amount:
                   description: Amount associated with the source. This is the amount
