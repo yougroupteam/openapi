@@ -2192,7 +2192,7 @@
         "last4": "1234",
         "brand": "visa",
         "fingerprint": "1JWtPxqbdX5Gamtz",
-        "three_d_secure": "tdsrc_1FANdcGcL5ZhPzOGOBQ8c9OV"
+        "three_d_secure": "recommended"
       },
       "redirect": {
         "return_url": "https://shop.example.com/crtA6B28E1",
