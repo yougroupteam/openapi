@@ -2182,7 +2182,7 @@
         "verified_name": null,
         "verified_phone": null
       },
-      "status": "reusable",
+      "status": "pending",
       "type": "three_d_secure",
       "usage": "single_use",
       "three_d_secure": {
