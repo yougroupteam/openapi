@@ -280,7 +280,7 @@
       "exp_month": 8,
       "exp_year": 2020,
       "fingerprint": "N00clNlZqaDtY85X",
-      "funding": "unknown",
+      "funding": "credit",
       "id": "card_1FANdRGcL5ZhPzOGcU2MAFGu",
       "last4": "4242",
       "metadata": {},
@@ -340,7 +340,7 @@
           "exp_month": 8,
           "exp_year": 2020,
           "fingerprint": "N00clNlZqaDtY85X",
-          "funding": "unknown",
+          "funding": "credit",
           "last4": "4242",
           "three_d_secure": null,
           "wallet": null
@@ -1737,7 +1737,7 @@
         "exp_month": 8,
         "exp_year": 2020,
         "fingerprint": "N00clNlZqaDtY85X",
-        "funding": "unknown",
+        "funding": "credit",
         "generated_from": null,
         "last4": "4242",
         "three_d_secure_usage": {
@@ -2193,7 +2193,8 @@
         "brand": "visa",
         "country": "SG",
         "fingerprint": "1JWtPxqbdX5Gamtz",
-        "three_d_secure": "recommended"
+        "three_d_secure": "recommended",
+        "funding": "credit"
       },
       "redirect": {
         "return_url": "https://shop.example.com/crtA6B28E1",
@@ -2518,7 +2519,7 @@
         "exp_month": 8,
         "exp_year": 2020,
         "fingerprint": "N00clNlZqaDtY85X",
-        "funding": "unknown",
+        "funding": "credit",
         "id": "card_1FANdRGcL5ZhPzOGcU2MAFGu",
         "last4": "4242",
         "metadata": {},
@@ -2551,7 +2552,7 @@
         "exp_month": 8,
         "exp_year": 2020,
         "fingerprint": "N00clNlZqaDtY85X",
-        "funding": "unknown",
+        "funding": "credit",
         "id": "card_1FANdcGcL5ZhPzOGvgjARK6f",
         "last4": "4242",
         "metadata": {},
