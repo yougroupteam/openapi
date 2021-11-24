@@ -1167,6 +1167,7 @@
           "spending_limits_currency": null
         },
         "brand": "Visa",
+        "funding": "credit", 
         "cardholder": {
           "authorization_controls": {
             "allowed_categories": [],
@@ -1282,6 +1283,7 @@
         "spending_limits_currency": null
       },
       "brand": "Visa",
+      "funding": "credit", 
       "cardholder": {
         "authorization_controls": {
           "allowed_categories": [],
@@ -1341,6 +1343,7 @@
           "spending_limits_currency": null
         },
         "brand": "Visa",
+        "funding": "credit", 
         "cardholder": {
           "authorization_controls": {
             "allowed_categories": [],
@@ -1406,6 +1409,7 @@
           "spending_limits_currency": null
         },
         "brand": "Visa",
+        "funding": "credit",
         "cardholder": {
           "authorization_controls": {
             "allowed_categories": [],
